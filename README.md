@@ -3,7 +3,7 @@
 This competition is very important to me as it helped me to begin my journey on Kaggle few months ago.
 Competition link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-![Competition Banner](https://github.com/arnabx007/Ames-House-Price-Prediction-with-Advanced-Regression-Techniques/blob/master/banner.jpg"")
+![Competition Banner](https://github.com/arnabx007/Ames-House-Price-Prediction-with-Advanced-Regression-Techniques/blob/master/banner.jpg "")
 
 About the dataset: Compared to the **Boston Housing Dataset** the **Ames Housing Dataset** is a large dataset with a total of around 2900+ observations and packed with 80 feature variables ('Boston Dataset' has 506 observations and only 14 variables). In the dataset there are,
 
@@ -37,4 +37,4 @@ I have tried several ML algorithms and in the end stacking & ensembling approche
 
 After approaching and experimenting with all the above techniques my final LB score was 0.11994 (top 2% on the leaderboard the last time I submitted: September, 2020)
 
-![LB](https://github.com/arnabx007/Ames-House-Price-Prediction-with-Advanced-Regression-Techniques/blob/master/LB.jpg"")
+![LB](https://github.com/arnabx007/Ames-House-Price-Prediction-with-Advanced-Regression-Techniques/blob/master/LB.jpg "")
